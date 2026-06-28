@@ -177,6 +177,6 @@ http://localhost:3000
 
 ## Author
 
-**Maya**
+**Anju**
 
 Built as part of the Next.js Developer Internship assignment.

@@ -32,7 +32,7 @@ export default function Contact() {
           </span>
 
           <h2
-            className="text-5xl font-bold leading-tight md:text-6xl"
+            className="text-4xl font-bold leading-tight md:text-6xl"
             style={{
               background:
                 "linear-gradient(90deg,#38bdf8,#8b5cf6,#ec4899)",
